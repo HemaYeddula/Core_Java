@@ -1,8 +1,8 @@
-# Core Java Reference Project
+# Core Java Reference Programs
 
 ## Purpose
 
-This repository is a reference for my Java learning, and interview preparation. All files are organized by package and topic for easy retrieval and review.
+This repository is a personal reference for my Java learning, and interview preparation. All files are organized by package and topic for easy retrieval and review.
 
 ## What it contains
 
